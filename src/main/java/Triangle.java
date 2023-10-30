@@ -8,6 +8,5 @@ public class Triangle {
         double areaTriangle = 0.5 * sideB * sideH;  // Площадь равнобедренного треугольника
 
         System.out.println("Площадь равнобедренного треугольника = " + areaTriangle);
-
     }
 }

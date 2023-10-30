@@ -4,13 +4,5 @@ public class Square {
         double side = 4.37;
         double areaSquare = side * side;
         System.out.println("Площадь квадрата = " + areaSquare);
-
-
-
-
-
-
-
-
     }
 }

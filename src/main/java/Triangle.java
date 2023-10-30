@@ -1,6 +1,5 @@
 public class Triangle {
     public static void main(String[] args) {
-
         int sideA = 20;
         int sideB = 10;
         int sideC = 20;
